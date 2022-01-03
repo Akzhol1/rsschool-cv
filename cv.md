@@ -11,7 +11,10 @@ Telegram: @akzholchadan
 
 ## Briefly About Myself: 
 
+I am a 19 year old student who became interested in programming in the beginning of last year.
 
+
+Currently, I am first year at SYNERGY university in a software development major while also learning at my own pace in my free time. 
 
 *****
 
